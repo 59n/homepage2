@@ -20,10 +20,6 @@
             <Clock />
             <Stats />
         </div>
-        <div class="widgets">
-            <Weather />
-            <Todoist />
-        </div>
         <Links />
     </div>
 
