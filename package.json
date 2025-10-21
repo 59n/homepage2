@@ -11,7 +11,7 @@
     "devDependencies": {
         "@sveltejs/vite-plugin-svelte": "^5.1.0",
         "svelte": "^5.35.2",
-        "vite": "^6.3.5"
+        "vite": "^6.4.1"
     },
     "dependencies": {
         "@fontsource-variable/geist-mono": "^5.2.6"
